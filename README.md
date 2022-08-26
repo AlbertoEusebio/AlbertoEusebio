@@ -7,7 +7,7 @@
 💻 Studying Computer Engineering at Politechnic University of Turin
 
 
-⚙️🔥 Working on the fastest human powered vehicles
+⚙️🔥 Working on the fastest human powered vehicles at [@policumbent](https://github.com/policumbent)
 
 
 🌱 Love for nature
