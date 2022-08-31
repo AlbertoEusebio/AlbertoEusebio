@@ -10,7 +10,4 @@
 ⚙️🔥 Working on the fastest human powered vehicles at [@policumbent](https://github.com/policumbent)
 
 
-🌱 Love nature
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoEusebio&layout=compact)](https://github.com/AlbertoEusebio/github-readme-stats)
