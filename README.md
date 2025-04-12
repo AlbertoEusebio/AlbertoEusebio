@@ -13,7 +13,7 @@
 * 🍷🤖 Teaching a robot to prune vine plants 🍇 at [PIC4SeR Lab](https://pic4ser.polito.it/) training a Stacked Hourglass Network for Human Pose Estimation.
 * 🧠🧘‍♂️ Fine-tuning LLMs to track mental wellbeing at [NECSTLab](https://necst.it/), using Augmented Prompt techniques to perform Enhanced Sentiment Analysis on a collected dataset.
 
-##### 🚨 **Disclaimer**: to preserve my well-being 🧘‍♂️ and remaining social life 🏈 some projects may not yet be public on GitHub. But feel free to ask about my offline projects!
+#### 🚨 **Disclaimer**: to preserve my well-being 🧘‍♂️ and remaining social life 🏈 some projects may not yet be public, but feel free to ask about them!
 
 ### Contacts
 * [Linkedin](https://www.linkedin.com/in/alberto-eusebio/)
