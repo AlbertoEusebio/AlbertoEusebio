@@ -1,10 +1,12 @@
 
-# Hello there 👋, I'm [Alberto](https://github.com/AlbertoEusebio)!
+# Hello there 👋, I'm Alberto!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-eusebio/) 
 ### About me
 * 💻 MS.c Artificial Intelligence at Politechnic University of Milan
 * 💻 BC.s Computer Engineering at Politechnic University of Turin
 
-
-⚙️🔥 Working on the fastest human powered vehicles at [@policumbent](https://github.com/policumbent)
+### Cool things I am proud of
+⚙️🔥 Building on the fastest human powered vehicles at [Team Policumbent](https://github.com/policumbent) and the striking the **World Record** 🏆.
+🫁⚕️ Developing AI solutions for oncology at [AI-ON Lab](https://ai-onlab.com/) training ViTs and CNNs to predict survival in patients with lung cancer.
+🍷🤖 Teaching a robot to prune vine plants 🍇 at [PIC4SeR Lab](https://pic4ser.polito.it/) training a Stacked Hourglass Network for Human Pose Estimation.
+🧠🧘‍♂️ Fine-tuning LLMs to track mental wellbeing at [NECSLab](https://necst.it/), using Augmented Prompt techniques to perform Enhanced Sentiment Analysis on a collected dataset.
